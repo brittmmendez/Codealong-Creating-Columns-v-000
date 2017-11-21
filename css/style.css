@@ -83,6 +83,9 @@ section {
 
 
 /* LAYOUT */
+*{
+  box-sizing: border-box;
+}
 .wrapper {
 width: 900px;
 margin: 0 auto;
