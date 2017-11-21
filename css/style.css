@@ -97,15 +97,15 @@ margin: 0 auto;
 .col-1{
   float: left;
   width: 33%;
-  
+
 }
 .col-2{
   float: left;
   width: 65%;
-  
+
 }
 .col-3{
-  
+
 }
 [class*="col="]{
   margin-left: 2%;
