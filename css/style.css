@@ -91,21 +91,21 @@ section {
 .wrapper {
 width: 900px;
 margin: 0 auto;
-background-color: grey;
+
 }
 
 .col-1{
   float: left;
   width: 33%;
-  background-color: pink;
+  
 }
 .col-2{
   float: left;
   width: 65%;
-  background-color: pink;
+  
 }
 .col-3{
-  background-color: pink;
+  
 }
 [class*="col="]{
   margin-left: 2%;
